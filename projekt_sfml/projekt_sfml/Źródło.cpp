@@ -6,6 +6,6 @@ void main() {
 		sf::RectangleShape rs(sf::Vector2f(100, 100));
 		window.draw(rs);
 		window.display();
-		aaaaa;
+		
 	}
 }
